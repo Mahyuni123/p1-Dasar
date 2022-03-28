@@ -9,6 +9,7 @@ public class S_InputBufferedReader {
             System.out.print ("What is your name?:");
             String name = input.readLine();
             System.out.println("My name is" + name);
+
         }
     }
 
